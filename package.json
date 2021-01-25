@@ -1,9 +1,5 @@
 {
-	"engines": {
-    "node": "v12.1.0",
-    "npm": ">=6.0.0"
-  },
-  "name": "nodejs-restapi-poc",
+	"name": "nodejs-restapi-poc",
   "version": "1.0.0",
   "description": "A NodeJS REST API poc",
   "main": "app.js",
