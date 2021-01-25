@@ -1,6 +1,6 @@
 {
 	"engines": {
-    "node": ">=v12.1.0",
+    "node": "=v12.1.0",
     "npm": ">=6.0.0"
   },
   "name": "nodejs-restapi-poc",
